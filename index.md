@@ -2,7 +2,7 @@
 
 
 
-![六个小孩学编程书的封面](Figures/BookCoverpage.png)
+![六个小孩学编程书的封面](Figures/BookCoverpage.jpg)
 
 ## 作者：
 ![小SIGMA数学特别兴趣组](Figures/SIGMA-Logo-and-members.png)
